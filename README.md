@@ -36,4 +36,4 @@ All case studies: [ai.smritajaindesign.com](https://ai.smritajaindesign.com)
 
 ---
 
-*Written by Smrita Jain. 100% human-written, not AI-generated.*
+*No AI model was used to write this. 100% human.*
