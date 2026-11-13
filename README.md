@@ -14,7 +14,7 @@ Now I apply that craft to AI: training and evaluating large language models for 
 
 ## What I will bring to the table
 
-Bring mentorship skills for junior designers, clear guidance and rules for the AI agents, and a great team collaborator with a “roll-up-my-sleeves” attitude. Furthermore, I recently completed Harvard Intensive Agentic AI certifications, which taught me not only the core principles of agentic AI but also how to think agentic-first.
+Bring mentorship skills for junior and senior designers, clear guidance and rules for the AI agents, and a great team collaborator with a “roll-up-my-sleeves” attitude. Furthermore, I recently completed Harvard Intensive Agentic AI certifications, which taught me not only the core principles of agentic AI but also how to think agentic-first.
 
 ## Selected work
 
