@@ -18,8 +18,13 @@ Award-winning Creative and Experience Design professional with directorial and s
 
 Bring mentorship skills for junior and senior designers, clear guidance and rules for the AI agents, and a great team collaborator with a “roll-up-my-sleeves” attitude. Furthermore, I recently completed Harvard Data Science Initiative Intensive Agentic AI certifications, which taught me not only the core principles of agentic AI but also how to think agentic-first.
 
+## Certification
+
+Harvard Data Science Initiative Agentic AI Certification (potential completion Dec 2026)
+
 ## Selected work
 
+- [ADVOCATE](https://ai.smritajaindesign.com/work/advocate)
 - [Rutgers University Camp Kilmer](https://ai.smritajaindesign.com/work/kilmer)
 - [NPZ Law Group](https://ai.smritajaindesign.com/work/npz)
 - [HarborGate](https://ai.smritajaindesign.com/work/harborgate)
